@@ -1,6 +1,6 @@
 ﻿<!--
 ### Hi there 👋
-**qqzhong/qqzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**churchzhong/churchzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/qqzhong">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=qqzhong&show_icons=true&line_height=40&count_private=true&theme=dark" alt="Church ZHONG's GitHub Stats" />
+<a href="https://github.com/churchzhong">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=churchzhong&show_icons=true&line_height=40&count_private=true&theme=dark" alt="Church ZHONG's GitHub Stats" />
 </a>
 
-<a href="https://github.com/qqzhong">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqzhong&&hide=cmake&langs_count=5&line_height=35&theme=dark" />
+<a href="https://github.com/churchzhong">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=churchzhong&&hide=cmake&langs_count=5&line_height=35&theme=dark" />
 </a>
 
 <!--
-# <div align="center">[⚡Job Opportunity 招聘⚡](https://github.com/qqzhong/Job-Opportunity)</div>
+# <div align="center">[⚡Job Opportunity 招聘⚡](https://github.com/churchzhong/Job-Opportunity)</div>
 -->
